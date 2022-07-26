@@ -44,13 +44,13 @@ class a9
 {
 
 };
-class a10
-{
+// class a10
+// {
 
-};
+// };
 
 int main()
 {
     cout<< sizeof(a1)<<endl;
-    cout<<sizeof(a10)<<endl;
+    //cout<<sizeof(a10)<<endl;
 }
