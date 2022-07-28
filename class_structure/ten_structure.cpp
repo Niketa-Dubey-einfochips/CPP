@@ -44,10 +44,10 @@ class a9
 {
 
 };
-// class a10
-// {
+class a10
+{
 
-// };
+};
 
 int main()
 {
