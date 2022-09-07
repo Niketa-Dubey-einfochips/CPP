@@ -19,7 +19,7 @@ void display(int var1 , float var2)
     cout<<"integer number  : "<<var1<<endl;
     cout<<"and float number  : "<<var2<<endl;
 
-}
+}//python class , public member , protected , data type in python
 int main()
 {
     int a= 5 ; float b =5.5;
